@@ -2,9 +2,9 @@
 
 
 <p align="center">
-  <img src="spawntext.png?raw=true" />
+  <img src="assets/spawntext.png?raw=true" />
 </p><p align="center">
-  <img src="menubase.png?raw=true" />
+  <img src="assets/menubase.png?raw=true" />
 </p>
 
 this was the mod menu base I was using for Toxic, my IW5 Azza Menu I planned to release for free. I have run into some issues due to my own stupidity and I'm not sure if I will continue my work on the menu. I am releasing this because it is a simple, easy to understand base which is perfect for beginners, or some lazy script kiddie who doesn't want to write a base. I was going to add infinite scroll since I hate adding new sub menus for a few leftover options that need to be added but never got around to it; so feel free to do so.
@@ -13,9 +13,9 @@ this was the mod menu base I was using for Toxic, my IW5 Azza Menu I planned to 
 
 ## How to install
 
-  - Click the `Green Code button` at the top of the page and click `Download ZIP` <img src="download.png" alt="" width="400"/>
-  - Press `Win + R` to open the run popup, or search `Run` in your taskbar search <img src="winr.png" alt="" width="400"/>
-  - extract the files to `%localappdata%\Plutonium\storage\iw5\scripts` as shown <img src="iw5.png" alt="" width="400"/>
+  - Click the `Green Code button` at the top of the page and click `Download ZIP` <img src="assets/download.png" alt="" width="400"/>
+  - Press `Win + R` to open the run popup, or search `Run` in your taskbar search <img src="assets/winr.png" alt="" width="400"/>
+  - extract the files to `%localappdata%\Plutonium\storage\iw5\scripts` as shown <img src="assets/iw5.png" alt="" width="400"/>
 
 
 ## How to edit
