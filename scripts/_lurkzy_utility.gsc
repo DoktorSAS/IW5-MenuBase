@@ -6,7 +6,7 @@ init() {}
 
 test()
 {
-    self iprintln("Script Sucessful: [ ^2Test ^7]");
+    self iprintln("Script Sucesssful: [ ^2Test ^7]");
 }
 
 changeTheme( color )
